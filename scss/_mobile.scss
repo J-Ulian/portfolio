@@ -69,6 +69,19 @@
     .projects {
         grid-template-columns: repeat(2, 1fr);
     }
+
+
+    .bio-image {
+        max-width: 250px;
+    }
+
+    .bio {
+        text-align: start;
+    }
+
+
+
+
 }
 
 // Smartphones
@@ -82,4 +95,39 @@
     .projects {
         grid-template-columns: 1fr;
     }
+
+    #contact {
+        .lg-heading {
+
+            font-size: 80px;
+        }
+
+        .connect {
+            font-size: x-large;
+            ;
+        }
+    }
+
+    #about {
+        .lg-heading {
+
+            font-size: 80px;
+        }
+
+        .bio {
+            font-size: 20px;
+        }
+
+    }
+
+    #home {
+        .lg-heading {
+
+            font-size: 80px;
+        }
+
+
+    }
+
+
 }
