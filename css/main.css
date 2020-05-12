@@ -289,7 +289,9 @@ main {
   .projects {
     grid-template-columns: 1fr; }
   #contact .lg-heading {
-    font-size: 80px; }
+    font-size: 70px; }
+  #contact .sm-heading {
+    font-size: 22px; }
   #contact .connect {
     font-size: x-large; }
   #about .lg-heading {
@@ -297,4 +299,6 @@ main {
   #about .bio {
     font-size: 20px; }
   #home .lg-heading {
-    font-size: 80px; } }
+    font-size: 70px; }
+  #home .sm-heading {
+    font-size: 22px; } }
